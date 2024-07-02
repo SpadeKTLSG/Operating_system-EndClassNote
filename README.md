@@ -1,4 +1,4 @@
-# Operating_System-EndClassNote
+# Operating_system-EndClassNote
 计算机操作系统-个人期末复习宝典
 
 资料来自网络, 纯个人期末整理需求整理; 不一定拟合考点, 请注意!
